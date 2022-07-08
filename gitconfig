@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = scheller.jan1992@gmail.com
+	name = Jan Scheller
